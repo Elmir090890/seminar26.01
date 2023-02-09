@@ -1,0 +1,15 @@
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\bin\Debug\net6.0\Задача21.1.exe
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\bin\Debug\net6.0\Задача21.1.deps.json
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\bin\Debug\net6.0\Задача21.1.runtimeconfig.json
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\bin\Debug\net6.0\Задача21.1.dll
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\bin\Debug\net6.0\Задача21.1.pdb
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\Задача21.1.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\Задача21.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\Задача21.1.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\Задача21.1.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\Задача21.1.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\Задача21.1.dll
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\refint\Задача21.1.dll
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\Задача21.1.pdb
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\Задача21.1.genruntimeconfig.cache
+C:\Users\ahmad\Desktop\seminar 26.01\Задача21.1\obj\Debug\net6.0\ref\Задача21.1.dll
