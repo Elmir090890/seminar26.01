@@ -1,0 +1,15 @@
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\bin\Debug\net6.0\Задача27.exe
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\bin\Debug\net6.0\Задача27.deps.json
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\bin\Debug\net6.0\Задача27.runtimeconfig.json
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\bin\Debug\net6.0\Задача27.dll
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\bin\Debug\net6.0\Задача27.pdb
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\Задача27.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\Задача27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\Задача27.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\Задача27.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\Задача27.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\Задача27.dll
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\refint\Задача27.dll
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\Задача27.pdb
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\Задача27.genruntimeconfig.cache
+C:\Users\ahmad\Desktop\seminar 26.01\Задача27\obj\Debug\net6.0\ref\Задача27.dll
