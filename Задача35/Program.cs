@@ -1,40 +1,40 @@
-﻿// Задача 33: Задайте массив. Напишите программу, которая определяет,
-//  присутствует ли заданное число в массиве.
-// 4; массив [6, 7, 19, 345, 3] -> нет 3; массив [6, 7, 19, 345, 3] -> да
+﻿// Задача 35: Задайте одномерный массив из 123 случайных чисел. 
+// Найдите количество элементов массива, значения которых лежат в отрезке [10,99].
 
 Console.Clear();
 
-int[] GetArray(int size, int MinValue, int MaxValue)
+int[] GetArray(int size, int minValue, int maxValue)
 {
-int[] Result = new int[size];
+int[] result = new int[size];
 
 for (int i = 0; i < size; i++)
 {
-Result[i] = new Random().Next(MinValue, MaxValue + 1);
-}
-return Result;
+result[i] = new Random().Next(minValue, maxValue + 1);
 }
 
-bool FindElement(int number, int[] collection)
+return result;
+}
+
+int CountElements(int[] array)
 {
-foreach (int el in collection)
+int count = 0;
+foreach (int item in array)
 {
-if (el == number)
+if (item > 9 && item < 100)
 {
-return true;
+count++;
 }
 }
-return false;
+return count;
 }
-int[] array = GetArray(12, -9, 9);
-System.Console.WriteLine(string.Join(",", array));
-Console.Write("Введите число: ");
-int n = int.Parse(Console.ReadLine()!);
-if (FindElement(n, array))
-{
-System.Console.WriteLine("да");
-}
-else
-{
-System.Console.WriteLine("нет");
-}
+
+int[] array = GetArray(123, -9, 150);
+Console.WriteLine(string.Join(",", array));
+int end = CountElements(array);
+Console.Write($"Количество элементов массива удовлетворяющих условие равна {end} ");
+
+
+
+
+
+
